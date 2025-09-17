@@ -1,5 +1,6 @@
 package DataModels;
 
-public record User(double callNumber) {
+public record User(double phoneNumber) {
     
 }
+
