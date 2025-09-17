@@ -1,5 +1,6 @@
 package DesignPattern.StrategyPattern;
 
-public class PercentDiscount {
+public class PercentageDiscount {
     
 }
+
